@@ -1,1 +1,2 @@
-let selectedColours = ['red', 'blue',];
+let name = ('tommo')
+console.log(name)
