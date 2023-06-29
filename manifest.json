@@ -3,7 +3,7 @@
     "short_name": "webapptest",
     "description": "A simple web app",
     "categories": ["games"],
-    "start_url": ".",
+    "start_url": "/webapptest/",
     "theme_color": "#000",
     "background_color": "#fff",
     "display": "standalone",
