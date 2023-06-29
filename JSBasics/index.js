@@ -1,1 +1,0 @@
-let selectedColours = ['red', 'blue',];
