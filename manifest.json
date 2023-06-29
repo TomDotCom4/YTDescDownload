@@ -1,8 +1,17 @@
 {
-  "name": "WebApp",
-  "short_name": "Webapp",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#fff",
-  "description": "a webapp?",
+    "name": "Snake",
+    "short_name": "Snake",
+    "description": "A simple snake game",
+    "categories": ["games"],
+    "start_url": ".",
+    "theme_color": "#000",
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "images/icons/icon-48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
 }
