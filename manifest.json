@@ -1,7 +1,7 @@
 {
-    "name": "Snake",
-    "short_name": "Snake",
-    "description": "A simple snake game",
+    "name": "webapptest",
+    "short_name": "webapptest",
+    "description": "A simple web app",
     "categories": ["games"],
     "start_url": ".",
     "theme_color": "#000",
