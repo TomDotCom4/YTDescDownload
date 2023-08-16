@@ -3,7 +3,7 @@
     "short_name": "webapptest",
     "description": "A simple web app",
     "categories": ["games"],
-    "start_url": ".",
+    "start_url": "https://tomdotcom4.github.io/index.html",
     "theme_color": "#000",
     "background_color": "#fff",
     "display": "standalone",
