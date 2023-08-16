@@ -1,6 +1,6 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
-  '/index.html',
+  '../index.html',
   'manifest.json',
   'icon.png',
   'index.js'
